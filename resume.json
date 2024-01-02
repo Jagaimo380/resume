@@ -1,134 +1,165 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Léon Mangeat",
+    "label": "Développeur web Fullstack / Expert Angular",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "leon.mangeat@gmail.com",
+    "phone": "+33 7 86 85 87 27",
+    "summary": "Développeur web depuis plus de 8 ans, j’ai d’abord commencé mon expérience professionnelle en Java puis ai rapidement intégré Angular dans mes développements. Tombé amoureux du framework et plus globalement de JavaScript/Typscript, j’en ai fait mon cœur de maitrise et suis devenu, au fil des années, expert Angular.\nEn CDI depuis le début de ma carrière je me lance aujourd'hui vers de nouvelles aventures en freelance.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Lyon",
+      "countryCode": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "network": "LinkedIn",
+        "username": "Léon Mangeat",
+        "url": "https://fr.linkedin.com/in/l%C3%A9on-mangeat-112a02128"
       }
     ]
   },
   "work": [
     {
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Astek pour le client Orange",
+      "position": "Développeur Full Stack expérimenté",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2021-03",
+      "endDate": "Aujourd'hui",
       "highlights": [
-        "Started the company"
+        "Projet agile multi-team, 7 équipes SCRUM de 5 personnes en moyenne",
+        "Taille de mon équipe : 1 Tech lead, 5 développeurs, 2 PO/Proxy PO",
+        "But fonctionnel : Conception et réalisation d’une application WEB B2B à destination des opérateurs techniques fibre. Le projet a pour but de venir remplacer un ensemble de plusieurs applications de gestion et prise de commandes pour n'en faire qu'une seule, afin de simplifier le parcours et donc l’expérience utilisateur.\nLes processus de gestion de commande sont basés sur une norme universelle propre au secteur de la télécommunication.",
+        "Rôle de mon équipe : Conception et réalisation du portail front office. Le but étant de fédérer un ensemble de micro-services via une application dite \"back for front\" et de proposer une application front proposant les fonctionnalités de prise et gestion de commandes.",
+        "Technologies utilisées : Angular · NestJS · GraphQL · Nx · Apollo Angular"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "name": "Astek pour le client Interpol",
+      "position": "Développeur Full Stack",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2018",
+      "endDate": "2021-03",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Equipe : Entre 2 et 5 membres, méthodologie agile (SCRUM)",
+        "But fonctionnel : Système de gestion des œuvres d’arts volées, référencées par Interpol",
+        "Technologies utilisées : Angular · Spring Boot · MongoDB · ElasticSearch · Spring Data · MariaDB"
+      ]
+    },
+    {
+      "name": "Astek pour le client Interpol",
+      "position": "Développeur Full Stack",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2018",
+      "endDate": "2021-03",
+      "highlights": [
+        "Equipe : Entre 2 et 3 membres",
+        "But fonctionnel : Web services REST fournissant des données publiques d’Interpol sur les personnes recherchées ou disparues",
+        "Technologies utilisées : Mongoose ODM · PM2 · Node.js · MongoDB"
+      ]
+    },
+    {
+      "name": "Astek pour le client Fedex",
+      "position": "Développeur Full Stack",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2018",
+      "endDate": "2021-03",
+      "highlights": [
+        "Equipe : Entre 2 et 3 membres",
+        "But fonctionnel : Outil de gestion de colis et d’impressions d’étiquettes d’expéditions",
+        "Technologies utilisées : AngularJS · Spring"
       ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "Ynov Lyon",
+      "url": "https://www.ynov.com/campus/lyon/",
+      "area": "Développement",
+      "studyType": "Expert En Dév. Web - RNCP 1",
+      "startDate": "2015-02",
+      "endDate": "2017",
+      "courses": []
+    },
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
+      "institution": "Université lyon 1",
+      "url": "https://www.univ-lyon1.fr/",
+      "area": "Informatique Informatique",
+      "studyType": "Licence Informatique",
+      "startDate": "2014",
+      "endDate": "2015",
+      "courses": []
+    },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "institution": "IUT informatique lyon 1",
+      "url": "https://iut.univ-lyon1.fr/",
+      "area": "Informatique",
+      "studyType": "DUT Informatique",
+      "startDate": "2012",
+      "endDate": "2014",
+      "courses": []
     }
   ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "name": "Angular",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Nestjs",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Nx",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind",
+      "keywords": []
+    },
+    {
+      "name": "Spring boot",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "keywords": []
+    },
+    {
+      "name": "MariaDB",
+      "keywords": []
+    },
+    {
+      "name": "Elastic Search",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue natale"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Avancé"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }
-  ]
+  "interests": [],
+  "projects": []
 }
