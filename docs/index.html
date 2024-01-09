@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" class="bg-gray-100">
+<html lang="fr" class="bg-gray-100 print:bg-white">
 
 <head>
   <meta charset="utf-8">
@@ -684,10 +684,6 @@ video {
   gap: 2rem;
 }
 
-.self-center {
-  align-self: center;
-}
-
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -702,6 +698,11 @@ video {
   border-radius: 1.5rem;
 }
 
+.rounded-b-lg {
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
 .rounded-l-\[4\.5rem\] {
   border-top-left-radius: 4.5rem;
   border-bottom-left-radius: 4.5rem;
@@ -709,11 +710,6 @@ video {
 
 .rounded-l-lg {
   border-top-left-radius: 0.5rem;
-  border-bottom-left-radius: 0.5rem;
-}
-
-.rounded-b-lg {
-  border-bottom-right-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
 }
 
@@ -897,10 +893,27 @@ video {
 
 .hover\:underline:hover {
   text-decoration-line: underline;
+}
+
+@media print {
+  .print\:m-0 {
+    margin: 0px;
+  }
+
+  .print\:bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  }
+
+  .print\:shadow-none {
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  }
 }</style>
 </head>
 
-<body class="flex flex-col bg-white min-h-ha4 mx-auto my-5 w-wa4 p-2 shadow-lg">
+<body class="flex flex-col bg-white min-h-ha4 mx-auto my-5 w-wa4 p-2 shadow-lg print:shadow-none print:m-0">
 <!---->
   <header class="flex gap-2 mb-2">
     <div class="rounded-l-lg bg-neutral grow flex">
