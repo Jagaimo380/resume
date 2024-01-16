@@ -24,51 +24,105 @@
     {
       "name": "Astek pour le client Orange",
       "position": "Développeur Full Stack expérimenté",
+      "summary": "But fonctionnel : Conception et réalisation d’une application WEB B2B à destination des opérateurs techniques fibre. Le projet a pour but de venir remplacer un ensemble de plusieurs applications de gestion et prise de commandes pour n'en faire qu'une seule, afin de simplifier le parcours et donc l’expérience utilisateur.\nLes processus de gestion de commande sont basés sur une norme universelle propre au secteur de la télécommunication.\nRôle de mon équipe : Conception et réalisation du portail front office. Le but étant de fédérer un ensemble de micro-services via une application dite \"back for front\" et de proposer une application front proposant les fonctionnalités de prise et gestion de commandes.",
       "url": "https://astekgroup.fr/",
       "startDate": "2021-03",
       "endDate": "Aujourd'hui",
       "highlights": [
         "Projet agile multi-team, 7 équipes SCRUM de 5 personnes en moyenne",
         "Taille de mon équipe : 1 Tech lead, 5 développeurs, 2 PO/Proxy PO",
-        "But fonctionnel : Conception et réalisation d’une application WEB B2B à destination des opérateurs techniques fibre. Le projet a pour but de venir remplacer un ensemble de plusieurs applications de gestion et prise de commandes pour n'en faire qu'une seule, afin de simplifier le parcours et donc l’expérience utilisateur.\nLes processus de gestion de commande sont basés sur une norme universelle propre au secteur de la télécommunication.",
-        "Rôle de mon équipe : Conception et réalisation du portail front office. Le but étant de fédérer un ensemble de micro-services via une application dite \"back for front\" et de proposer une application front proposant les fonctionnalités de prise et gestion de commandes.",
-        "Technologies utilisées : Angular · NestJS · GraphQL · Nx · Apollo Angular"
+        "Participation aux ateliers de mûrissement de l’architecture technique",
+        "Conception et réalisation de fonctionnalités en Angular et NestJS",
+        "Création d’endpoint GraphQL agrégeant les données des API de nos partenaires",
+        "Création d’écrans pilotés par des processus métier back",
+        "Mise en place et évolution d’un store front avec Apollo",
+        "Réalisation de l’architecture applicative, back et front, respectant les principes de la Clean Architecture",
+        "Décentralisation de la logique applicative en différentes librairies Angular, NestJS et Typescript",
+        "Réalisation d’un design-system",
+        "Optimisation des applications front et back (NgZone, change detection, feature module, resolve fields, Angular resolvers, caching)",
+        "Développement de tests unitaires",
+        "Relecture de code des pairs",
+        "Ecriture de documentations",
+        "Participation aux cérémonies (et ateliers) agiles SCRUM",
+        "Montée en compétences de nouveaux arrivants",
+        "Technologies utilisées : Angular · NestJS · GraphQL · Nx · Apollo Angular",
+        "CI/CD : GitLab CI/CI - Sonar - Docker - Kubernetes"
       ]
     },
     {
       "name": "Astek pour le client Interpol",
       "position": "Développeur Full Stack",
+      "summary": "Conception et réalisation d’une application web à destination des agents d’Interpol et des différents postes de police dans le monde. Le projet a pour but de gérer les œuvres d’arts volées, référencées par Interpol. Refonte complète, en repartant de zéro, d’un outil existant mais présentant un certain nombre de freins pour ces utilisateurs car pas complétement adapté à leurs besoins.",
       "url": "https://astekgroup.fr/",
       "startDate": "2018",
       "endDate": "2021-03",
       "highlights": [
         "Equipe : Entre 2 et 5 membres, méthodologie agile (SCRUM)",
-        "But fonctionnel : Système de gestion des œuvres d’arts volées, référencées par Interpol",
+        "Développements full stack des features demandées",
+        "Conception de solutions techniques (seul ou en atelier, projet créé de zéro)",
+        "Accompagnement et soutien technique des autres développeurs",
+        "Montée en compétences de nouveaux arrivants",
+        "Mise en place des environnements de déploiements (Dev, intégration, recette client)",
+        "Participation aux campagnes de tests",
+        "Mise en place de tests et déploiements automatisés (GitLab CI/CD)",
+        "Participation aux cérémonies (et ateliers) agiles SCRUM",
+        "Utilisation de Gateling pour effectuer des tests de performances",
+        "Lead technique sur la dernière année de mon intervention sur le projet",
         "Technologies utilisées : Angular · Spring Boot · MongoDB · ElasticSearch · Spring Data · MariaDB"
       ]
     },
     {
       "name": "Astek pour le client Interpol",
       "position": "Développeur Full Stack",
+      "summary": "Conception et réalisation d’un web service REST à destination du site web publique d’Interpol. Le projet a pour but de référencer les personnes disparues et les criminels recherchés à l’international. Cette API est principalement utilisée pour le site web d’Interpol (Notices rouge, Notices jaunes, Notices CSNU) mais a aussi pour but de pouvoir être utilisée librement, en lecture, par toute personne qui le souhaite.",
       "url": "https://astekgroup.fr/",
-      "startDate": "2018",
-      "endDate": "2021-03",
+      "startDate": "2017",
+      "endDate": "2021",
       "highlights": [
         "Equipe : Entre 2 et 3 membres",
-        "But fonctionnel : Web services REST fournissant des données publiques d’Interpol sur les personnes recherchées ou disparues",
+        "Développement des fonctionnalités et mise en place des solutions techniques",
+        "Développement de tests unitaires",
+        "Conception de solutions techniques (seul ou en atelier, projet créé de zéro)",
+        "Mise en place des environnements de déploiements (Dev, intégration, recette client, production)",
+        "Mise en place des déploiements automatisés (Jenkins)",
+        "Ecriture de documentations",
+        "Participation aux campagnes de tests",
+        "Accompagnement et soutien technique des autres développeurs",
+        "Montée en compétences de nouveaux arrivants",
+        "Analyse et rédaction de chiffrages pour le client",
         "Technologies utilisées : Mongoose ODM · PM2 · Node.js · MongoDB"
       ]
     },
     {
       "name": "Astek pour le client Fedex",
       "position": "Développeur Full Stack",
+      "summary": "Développement d’une application web auto-suffisante avec installeur. Le projet a pour but la gestion des colis et l’impression d’étiquettes d’expédition. L’outil est à destination des clients professionnels de Fedex souhaitant expédier régulièrement des colis.",
       "url": "https://astekgroup.fr/",
-      "startDate": "2018",
-      "endDate": "2021-03",
+      "startDate": "2017",
+      "endDate": "2018",
       "highlights": [
         "Equipe : Entre 2 et 3 membres",
-        "But fonctionnel : Outil de gestion de colis et d’impressions d’étiquettes d’expéditions",
+        "Développement des fonctionnalités et mise en place des solutions techniques",
+        "Développement de tests unitaires",
+        "Participation aux campagnes de tests",
+        "Analyse et rédaction de chiffrages pour le client",
         "Technologies utilisées : AngularJS · Spring"
+      ]
+    },
+    {
+      "name": "Astek",
+      "position": "Développeur web en contrat d'apprentissage",
+      "summary": "Intervention au sein du centre de service d'Astek Lyon pour différents clients tels que Bureau Veritas ou Fedex.",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2015",
+      "endDate": "2017",
+      "highlights": [
+        "Equipe : Entre 2 et 5 membres en fonction des projets",
+        "Développement des fonctionnalités et mise en place des solutions techniques",
+        "Développement de tests unitaires",
+        "Participation aux campagnes de tests",
+        "Analyse et rédaction de chiffrages pour le client",
+        "Technologies utilisées : AngularJS · Spring · Java"
       ]
     }
   ],
@@ -147,6 +201,18 @@
     },
     {
       "name": "Elastic Search",
+      "keywords": []
+    },
+    {
+      "name": "Gitlab CI/CD",
+      "keywords": []
+    },
+    {
+      "name": "Sonar",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
       "keywords": []
     }
   ],
