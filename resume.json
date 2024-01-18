@@ -46,7 +46,7 @@
         "Participation aux cérémonies (et ateliers) agiles SCRUM",
         "Montée en compétences de nouveaux arrivants",
         "Technologies utilisées : Angular · NestJS · GraphQL · Nx · Apollo Angular",
-        "CI/CD : GitLab CI/CI - Sonar - Docker - Kubernetes"
+        "CI/CD : GitLab CI/CI · Sonar · Docker · Kubernetes"
       ]
     },
     {
@@ -68,7 +68,8 @@
         "Participation aux cérémonies (et ateliers) agiles SCRUM",
         "Utilisation de Gateling pour effectuer des tests de performances",
         "Lead technique sur la dernière année de mon intervention sur le projet",
-        "Technologies utilisées : Angular · Spring Boot · MongoDB · ElasticSearch · Spring Data · MariaDB"
+        "Technologies utilisées : Angular · Spring Boot · MongoDB · ElasticSearch · Spring Data · MariaDB",
+        "CI/CD : GitLab CI/CI · Sonar"
       ]
     },
     {
@@ -90,7 +91,8 @@
         "Accompagnement et soutien technique des autres développeurs",
         "Montée en compétences de nouveaux arrivants",
         "Analyse et rédaction de chiffrages pour le client",
-        "Technologies utilisées : Mongoose ODM · PM2 · Node.js · MongoDB"
+        "Technologies utilisées : Mongoose ODM · PM2 · Node.js · MongoDB",
+        "CI/CD : GitLab CI/CI · Sonar"
       ]
     },
     {
@@ -133,7 +135,7 @@
       "url": "https://www.ynov.com/campus/lyon/",
       "area": "Développement",
       "studyType": "Expert En Dév. Web - RNCP 1",
-      "startDate": "2015-02",
+      "startDate": "2015",
       "endDate": "2017",
       "courses": []
     },
