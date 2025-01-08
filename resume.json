@@ -5,7 +5,7 @@
     "image": "",
     "email": "leon.mangeat@gmail.com",
     "phone": "+33 7 86 85 87 27",
-    "summary": "Développeur web depuis plus de 8 ans, j’ai d’abord commencé mon expérience professionnelle en Java puis ai rapidement intégré Angular dans mes développements. Tombé amoureux du framework et plus globalement de JavaScript/Typscript, j’en ai fait mon cœur de maitrise et suis devenu, au fil des années, expert Angular.\nEn CDI depuis le début de ma carrière je me lance aujourd'hui vers de nouvelles aventures en freelance.",
+    "summary": "Développeur web depuis plus de 9 ans, j’ai d’abord commencé mon expérience professionnelle en Java puis ai rapidement intégré Angular dans mes développements. Tombé amoureux du framework et plus globalement de JavaScript/Typscript, j’en ai fait mon cœur de maitrise et suis devenu, au fil des années, expert Angular.\nEn CDI tout le début de ma carrière je me suis lancé depuis l'an dernier en freelance.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,12 +22,39 @@
   },
   "work": [
     {
+      "name": "Jacquet Metals",
+      "position": "Lead technique frontend",
+      "summary": "But fonctionnel : Conception et réalisation d’une application WEB interne à destination des commerciaux de l'entreprise. Elle s’inscrit en tant que module partiel dans un projet de remplacement global de l’ERP “maison” et joue le rôle d’application pilote pour refondre l’intégralité de celui-ci par la suite.\nIl s’agit du module de création de devis réalisés par les commerciaux de l’entreprise. Un besoin de performance, d’ergonomie et de modernisation couplé à un respect des habitudes des utilisateurs, travaillant pour certains depuis plusieurs dizaines d’années sur l’ancien outil, est donc central au développement de ce projet.\nMon rôle sur le projet : J’arrive sur le projet après environ un an d'existence avec un besoin d’expertise technique sur le framework Angular (et les technologies front en général). J'interviens donc en tant que lead technique sur la partie frontend avec pour but de mettre en place des bonnes pratiques, une structure et un cadre manquant sur celle-ci.\nJ’ai aussi une position plus transverse de référent technique front et Angular sur l’ensemble du pôle “digital”.\n",
+      "url": "https://www.jacquetmetals.com/",
+      "startDate": "2024-02",
+      "endDate": "Aujourd'hui",
+      "highlights": [
+        "Equipe : 1 Tech lead back (et team lead), 2 développeurs backend, 1 tech lead frontend, 1 à 2 développeur frontend, 2 PO",
+        "Participation aux ateliers de mûrissement des besoins fonctionnels",
+        "Conception et réalisation de fonctionnalités en Angular",
+        "Mise en place de bonnes pratiques",
+        "Mise en place de l’architecture applicative front, respectant les principes de la Clean Architecture et d’une arborescence liée",
+        "Mise en place d’un mécanisme de sauvegarde automatique. Refondu par la suite pour implémenter la RFC 6902 - JSON patch",
+        "Menée de la montée en compétences des autres développeurs et nouveaux arrivants",
+        "Mise en place et évolution d’un store redux avec NGRX",
+        "Décentralisation, atomisation et découplage de la logique applicative en différentes librairies Angular",
+        "Optimisation des applications front et back (NgZone, change detection, Angular resolvers, caching)",
+        "Maintien des versions des librairies utilisées sur les dernières version LTS",
+        "Développement de tests unitaires",
+        "Relecture de code des pairs",
+        "Ecriture de documentations",
+        "Participation aux cérémonies (et ateliers) agiles",
+        "Technologies utilisées : Angular · REST · NGRX · PrimeNG",
+        "CI/CD : GitLab CI/CI · Docker · Kubernetes"
+      ]
+    },
+    {
       "name": "Astek pour le client Orange",
       "position": "Développeur Full Stack expérimenté",
       "summary": "But fonctionnel : Conception et réalisation d’une application WEB B2B à destination des opérateurs techniques fibre. Le projet a pour but de venir remplacer un ensemble de plusieurs applications de gestion et prise de commandes pour n'en faire qu'une seule, afin de simplifier le parcours et donc l’expérience utilisateur.\nLes processus de gestion de commande sont basés sur une norme universelle propre au secteur de la télécommunication.\nRôle de mon équipe : Conception et réalisation du portail front office. Le but étant de fédérer un ensemble de micro-services via une application dite \"back for front\" et de proposer une application front proposant les fonctionnalités de prise et gestion de commandes.",
       "url": "https://astekgroup.fr/",
       "startDate": "2021-03",
-      "endDate": "Aujourd'hui",
+      "endDate": "2023-07",
       "highlights": [
         "Projet agile multi-team, 7 équipes SCRUM de 5 personnes en moyenne",
         "Taille de mon équipe : 1 Tech lead, 5 développeurs, 2 PO/Proxy PO",
@@ -168,13 +195,20 @@
       "keywords": []
     },
     {
-      "name": "Nestjs",
+      "name": "NGRX",
       "level": "Expert",
       "keywords": []
     },
     {
+      "name": "Redux",
+      "keywords": []
+    },
+    {
+      "name": "Nestjs",
+      "keywords": []
+    },
+    {
       "name": "GraphQL",
-      "level": "Expert",
       "keywords": []
     },
     {
@@ -186,7 +220,15 @@
       "keywords": []
     },
     {
+      "name": "Clean architecture",
+      "keywords": []
+    },
+    {
       "name": "Tailwind",
+      "keywords": []
+    },
+    {
+      "name": "PrimeNG",
       "keywords": []
     },
     {
